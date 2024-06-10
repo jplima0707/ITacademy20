@@ -1,0 +1,15 @@
+C:\Users\Joao_Lima\Modulo_1\laboratorio_04\obj\Debug\net6.0\laboratorio_04.csproj.AssemblyReference.cache
+C:\Users\Joao_Lima\Modulo_1\laboratorio_04\obj\Debug\net6.0\laboratorio_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joao_Lima\Modulo_1\laboratorio_04\obj\Debug\net6.0\laboratorio_04.AssemblyInfoInputs.cache
+C:\Users\Joao_Lima\Modulo_1\laboratorio_04\obj\Debug\net6.0\laboratorio_04.AssemblyInfo.cs
+C:\Users\Joao_Lima\Modulo_1\laboratorio_04\obj\Debug\net6.0\laboratorio_04.csproj.CoreCompileInputs.cache
+C:\Users\Joao_Lima\Modulo_1\laboratorio_04\bin\Debug\net6.0\laboratorio_04.exe
+C:\Users\Joao_Lima\Modulo_1\laboratorio_04\bin\Debug\net6.0\laboratorio_04.deps.json
+C:\Users\Joao_Lima\Modulo_1\laboratorio_04\bin\Debug\net6.0\laboratorio_04.runtimeconfig.json
+C:\Users\Joao_Lima\Modulo_1\laboratorio_04\bin\Debug\net6.0\laboratorio_04.dll
+C:\Users\Joao_Lima\Modulo_1\laboratorio_04\bin\Debug\net6.0\laboratorio_04.pdb
+C:\Users\Joao_Lima\Modulo_1\laboratorio_04\obj\Debug\net6.0\laboratorio_04.dll
+C:\Users\Joao_Lima\Modulo_1\laboratorio_04\obj\Debug\net6.0\refint\laboratorio_04.dll
+C:\Users\Joao_Lima\Modulo_1\laboratorio_04\obj\Debug\net6.0\laboratorio_04.pdb
+C:\Users\Joao_Lima\Modulo_1\laboratorio_04\obj\Debug\net6.0\laboratorio_04.genruntimeconfig.cache
+C:\Users\Joao_Lima\Modulo_1\laboratorio_04\obj\Debug\net6.0\ref\laboratorio_04.dll
